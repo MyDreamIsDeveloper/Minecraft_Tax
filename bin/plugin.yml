@@ -1,0 +1,6 @@
+name: tax
+main: com.windows.tax.tax
+version: 1.0
+commands:
+  세금시작:
+  세금중지:
